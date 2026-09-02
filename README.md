@@ -1,5 +1,3 @@
-# logistics-risk-dashboard
-SQL + Power BI - Flagging 240 at-risk SKUs from 3204
 # Logistics Risk Dashboard - Inventory At-Risk Analysis
 
 ## 🚨 Problem Statement
@@ -33,7 +31,7 @@ Built an end-to-end analytics solution: MySQL for data flagging & logic, Power B
 
 ## 📁 Files
 - `queries.sql` - All SQL queries used
-- `dashboard.png` - Final Power BI dashboard
+- `Power BI dashboard.png` - Final Power BI dashboard
 - `logistics_dataset` - 3204 rows, warehouse inventory data
 
 ## 🔗 Let's Connect
