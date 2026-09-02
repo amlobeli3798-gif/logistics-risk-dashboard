@@ -36,3 +36,5 @@ Built an end-to-end analytics solution: MySQL for data flagging & logic, Power B
 
 ## 🔗 Let's Connect
 Looking for Data Admin / Junior Data Analyst roles in Johannesburg (Boksburg area). Open to SQL + Power BI projects.
+## 📊 Dashboard Preview
+![Power BI Dashboard](Power%20BI%20dashboard.png)
